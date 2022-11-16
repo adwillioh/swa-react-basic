@@ -3,4 +3,3 @@
     "presets": ["@babel/preset-env", "@babel/preset-react"],
     "plugins": ["@fullstory/babel-plugin-annotate-react"]
  }
-
